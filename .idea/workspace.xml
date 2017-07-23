@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dea7b6f-f7ff-417b-9b0a-af1e0ee0f6eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eureka-mysentence.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/application.yml" afterPath="$PROJECT_DIR$/eureka-myclient.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-config-client.yml" afterPath="$PROJECT_DIR$/my-config-client.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,11 +49,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application.yml">
+      <file leaf-file-name="eureka-myclient.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eureka-myclient.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+              <caret line="3" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eureka-mysentence.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-mysentence.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -75,6 +85,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/my-config-client.yml" />
         <option value="$PROJECT_DIR$/application.yml" />
+        <option value="$PROJECT_DIR$/eureka-mysentence.yml" />
       </list>
     </option>
   </component>
@@ -572,12 +583,12 @@
       <updated>1498209795705</updated>
       <workItem from="1498209797873" duration="1390000" />
       <workItem from="1498213294421" duration="564000" />
-      <workItem from="1500788863988" duration="291000" />
+      <workItem from="1500788863988" duration="871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2245000" />
+    <option name="totallyTimeSpent" value="2825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -705,10 +716,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application.yml">
+    <entry file="file://$PROJECT_DIR$/eureka-mysentence.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-myclient.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="48" />
           <folding />
         </state>
       </provider>
